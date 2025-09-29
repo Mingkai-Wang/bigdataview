@@ -1,64 +1,10 @@
-
-<p align="center"><h1 align="center">100+套大数据可视化模板</h1></p>
-
-<p align="center">
-  <a href="https://igaowei.github.io/BigDataView/"><img src="https://img.shields.io/badge/%E9%A2%84%E8%A7%88-Demo-green" alt="预览"></a>
-  <a href="#公众号"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-DreamCoders-blue" alt="公众号"></a>
-  <a href="https://blog.csdn.net/qq_31766533/article/details/119274641"><img src="https://img.shields.io/badge/CSDN-DreamCorders-orange" alt="CSDN"></a>
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/igaowei/bigdataview?label=Github&style=flat-square">
-  <a href='https://gitee.com/iGaoWei/big-data-view/stargazers'><img src='https://gitee.com/iGaoWei/big-data-view/badge/star.svg?theme=white' alt='star'></img></a>
-  <a href='https://gitee.com/iGaoWei/big-data-view/members'><img src='https://gitee.com/iGaoWei/big-data-view/badge/fork.svg?theme=white' alt='fork'></img></a>
-</p>
-
 #### 项目背景
 由于自己公司项目里面用到一个数据可视化大屏页面，自己网上各种谷歌百度，发现资源良莠不齐，而且大多数都是收费的，甚至一个页面一收费的那种，前前后后自己不管是付费的还是免费的收集了不少，于是自己打算整理下，免费分享给大家，以免大家再走冤枉路。如果大家有珍藏的好模板，欢迎大家继续补充贡献！！！
-
-
-```
-收集整理不易，如果觉得对您有帮助，欢迎 `Watch`、`Star`。当然也可以请我喝杯咖啡 💘感谢支持💘
-```
-<p align="center"><img src="https://demo.eiun.net/preview/wechat-code.png" width="320" height="320" alt="微信赞赏码" /></p>
-
-#### 源码地址
-
-<p style="padding:10px;"  width="90%">
-
-1. Gitee https://gitee.com/iGaoWei/big-data-view
-
-2. GitHub https://github.com/iGaoWei/BigDataView
-
-</p>
 
 #### 使用说明
 
 <p style="padding:10px;"  width="90%">
 
-##### 1.Gitee直接克隆下载，使用浏览器访问静态页面即可。
-
-```
-git clone https://gitee.com/iGaoWei/big-data-view.git
-```
-
-##### 2.GitHub直接克隆下载，使用浏览器访问静态页面即可。
-```
-git clone https://github.com/iGaoWei/BigDataView.git
-```
-##### 3.网盘下载地址：关注公众号【DreamCoders】回复”BigDataView“即可获取
-
-##### 4.扫描下方微信小程序码，获取下载地址
-
-<p align="center">
-<img src="https://jsd.onmicrosoft.cn/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png" width="30%" onerror="this.src='https://cdn.jsdelivr.net/gh/iGaoWei/codercdn@master/question/20240715/2024071504404229838.png'" />
-</p>
-
-```
-所有资源都是网络收集整理而来，免费分享给有需要的人，切勿打包出售他人
-```
-
-#### 大屏截图预览
-```
-在线预览时，有可能因为GithubPages浏览器环境问题，导致页面不兼容，不能正常显示，请以截图为准，或下载到本地测试预览,感谢支持！～
-```
 ##### 001 政务服务大数据可视化监管平台 [在线预览](https://demo.eiun.net/web/001%20政务服务大数据可视化监管平台)
 <img src="https://demo.eiun.net/gif/001.gif" onerror="this.src='https://demo.eiun.net/gif/001.gif'" width="100%" />
 
@@ -543,30 +489,3 @@ git clone https://github.com/iGaoWei/BigDataView.git
 <img src="https://demo.eiun.net/web/login-web/img/login_37.png" onerror="this.src='https://demo.eiun.net/gif/更多内容关注公众号.gif'" width="100%" />
 
 
-
-
-
-
-#### 温馨提示：更多模板陆续更新中
-
-
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="https://demo.eiun.net/preview/wechat-code.png" onerror="this.src='https://demo.eiun.net/gif/更多内容关注公众号.gif'" width="60%"/>
-<p>
-收集整理不易，如果觉得对你有对您有帮助，您可以点赞评论收藏支持! <br>
-也可以微信扫码上方赞赏码随意支持，最好您可以点右上角 💘Star💘支持,谢谢！～
-</p>
-</div>
-
-
-#### 公众号
-<div align="center">
-<p>更多互联网资源内容请关注公众号</p>
-<img src="./preview/更多内容关注公众号.gif" onerror="this.src='https://demo.eiun.net/gif/更多内容关注公众号.gif'"/>
-<p>记录自己折腾不止的人生，留住时光的一抹轨迹 ! 
-关注公众号，每天分享编程开发相关的技术文章、工具资源、精选课程、视频教程、IT资讯、学习资料等。
-</p>
-</div>
-
-[![陌生人/BigDataView](https://gitee.com/iGaoWei/big-data-view/widgets/widget_card.svg?colors=4183c4,ffffff,ffffff,e3e9ed,666666,9b9b9b)](https://gitee.com/iGaoWei/big-data-view)
